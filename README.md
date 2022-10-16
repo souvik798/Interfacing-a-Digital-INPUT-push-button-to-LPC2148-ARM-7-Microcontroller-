@@ -3,7 +3,7 @@
 Name : SOUVIK KUNDU
 Roll no :212221230105
 Ex. No. : 3 
-Date of experiment:12/10/2022
+
 ~~~
 ### Aim: To Interface a Digital input (pushbutton ) to LPC2148 ARM 7 and write a code to switch on and of an LED 
 Components required: Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
